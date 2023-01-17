@@ -4,7 +4,7 @@
 
 **小组成员**：范传进、许家路、赵依洋、赵昊泽
 
-**Bilibili演示及讲解视频**：https://www.bilibili.com/video/BV1Yt4y1E7vj
+**演示及讲解视频[Bilibili]**：[智能小车自动驾驶与交通标志识别](https://www.bilibili.com/video/BV1Yt4y1E7vj)
 
 **参考资料**：
 
